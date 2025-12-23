@@ -1,2 +1,20 @@
-# technical-writing-portfolio
-Technical writer with a background in architecture and software documentation.  This repository is a central portfolio showcasing my documentation projects.  My focus is on clear structure, audience-aware explanations, and maintainable documentation. Currently expanding my technical skills in Python, asynchronous programming, Unity, and C#.
+# Igor Roslyakov — Technical Writing Portfolio
+
+## About me
+Technical writer focused on developer documentation and Python education.
+
+## Documentation projects
+
+### 🟢 Python Basics Documentation
+Audience: beginners  
+Focus: built-in functions, core concepts, common mistakes  
+
+🔗 https://github.com/username/xxxxxx
+
+---
+
+### 🔵 Async Python Documentation
+Audience: intermediate developers  
+Focus: asynchronous programming concepts and architecture  
+
+🔗 https://github.com/username/xxxx
