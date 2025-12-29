@@ -22,11 +22,3 @@ to understand how a webhook-based service works and how to contribute to it.
    4. operational troubleshooting.
 
 🔗 [webhook-receiver-onboarding-template](https://github.com/lock-books-games/webhook-receiver-onboarding-template)
-
----
-
-### 🔵 Async Python Documentation
-Audience: intermediate developers  
-Focus: asynchronous programming concepts and architecture  
-
-🔗 https://github.com/username/xxxx
