@@ -1,11 +1,11 @@
 # Igor Roslyakov — Technical Writing Portfolio
 
-## About me
+### About me
 Technical writer focused on developer documentation and Python education.
 
-## Documentation projects
+### Documentation projects:
 
-### 🟢 Webhook Receiver Onboarding Template
+## 🟢 Webhook Receiver Onboarding Template
 
 Onboarding documentation template for a backend webhook receiver, including 
 minimal FastAPI implementation, architecture notes, and operational runbooks.
@@ -24,7 +24,7 @@ to understand how a webhook-based service works and how to contribute to it.
 🔗 [webhook-receiver-onboarding-template](https://github.com/igor-rosliakov-techwriter/webhook-receiver-onboarding-template)
 
 
-### 🟡 Dockerized Backend Development Environment (In Progress)
+## 🟡 Dockerized Backend Development Environment (In Progress)
 
 Documentation-driven template for a local backend development environment
 built with Docker Compose. The project demonstrates how developer-facing
@@ -59,7 +59,7 @@ processing and extended runbooks are being implemented incrementally.
 🔗 [dockerized-backend-dev-environment](https://github.com/igor-rosliakov-techwriter/dockerized-backend-dev-environment)
 
 
-### 🟢 Technical Writing Samples (Articles & Educational Materials)
+## 🟢 Technical Writing Samples (Articles & Educational Materials)
 
 Curated collection of developer-focused technical writing samples.
 
@@ -79,7 +79,7 @@ Focus:
 🔗 [technical-writing-samples](https://github.com/igor-rosliakov-techwriter/Technical-Writing-Samples/tree/main)
 
 
-### 🟢 Technical writing portfolio focused on both developer-facing and user-facing documentation.
+## 🟢 Technical writing portfolio focused on both developer-facing and user-facing documentation.
 
 Curated collection of user-facing technical writing samples.
 
