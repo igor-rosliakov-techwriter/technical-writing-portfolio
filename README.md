@@ -59,22 +59,41 @@ processing and extended runbooks are being implemented incrementally.
 🔗 [dockerized-backend-dev-environment](https://github.com/igor-rosliakov-techwriter/dockerized-backend-dev-environment)
 
 
-
 ### 🟢 Technical Writing Samples (Articles & Educational Materials)
 
-Curated collection of developer-focused technical writing samples covering
-backend systems, platform architecture, infrastructure workflows, and developer tooling.
-Audience: Backend, platform, and infrastructure engineers, as well as technical
-writers working with developer-facing documentation and onboarding materials.
+Curated collection of developer-focused technical writing samples.
 
-** Focus:**
-1. Clear explanation of complex technical systems.
-2. Architecture and data flow documentation.
-3. Backend and platform-level concepts:
-   1. asynchronous processing and monitoring;
-   2. message-driven systems;
-   3. Kubernetes-based platform architecture;
-   4. developer workflows and tooling;
-   5. infrastructure and DevOps practices.
+Audience:
+Backend, platform, and infrastructure engineers, as well as technical writers
+working with developer-facing documentation and onboarding materials.
+
+Focus:
+- Clear explanation of complex technical systems and workflows
+- Architecture and data flow documentation
+- Backend and platform-level concepts:
+  - asynchronous processing and background tasks
+  - message-driven systems
+  - Kubernetes-based platform architecture
+- Developer workflows, tooling, and infrastructure practices
 
 🔗 [technical-writing-samples](https://github.com/igor-rosliakov-techwriter/Technical-Writing-Samples/tree/main)
+
+
+### 🟢 Technical writing portfolio focused on both developer-facing and user-facing documentation.
+
+Curated collection of user-facing technical writing samples.
+
+Audience:
+Non-expert users, beginners, and product users interacting with technical systems
+and tools.
+
+Focus:
+- Clear and accessible explanations of technical concepts
+- User guides, onboarding, and troubleshooting documentation
+- Conceptual explanations for common technical topics:
+  - version control (Git)
+  - APIs and API usage
+  - security basics and data protection
+- Practical workflows and support-oriented documentation
+
+🔗 [user-facing-writing-samples](https://github.com/igor-rosliakov-techwriter/User-Facing-Technical-Writing-Samples)
