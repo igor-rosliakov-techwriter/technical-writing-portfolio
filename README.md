@@ -24,7 +24,7 @@ to understand how a webhook-based service works and how to contribute to it.
 🔗 [webhook-receiver-onboarding-template](https://github.com/igor-rosliakov-techwriter/webhook-receiver-onboarding-template)
 
 
-## 🟡 Dockerized Backend Development Environment (In Progress)
+## 🟢 Dockerized Backend Development Environment
 
 Documentation-driven template for a local backend development environment
 built with Docker Compose. The project demonstrates how developer-facing
@@ -50,11 +50,6 @@ understand a multi-service backend system locally.
    2. debugging workflows;
    3. common local development pitfalls;
    4. runbooks for typical failure scenarios.
-
-**Status:**
-The project is actively developed. Current scope includes environment setup,
-health checks, and API-to-database/queue integration. Background worker
-processing and extended runbooks are being implemented incrementally.
 
 🔗 [dockerized-backend-dev-environment](https://github.com/igor-rosliakov-techwriter/dockerized-backend-dev-environment)
 
