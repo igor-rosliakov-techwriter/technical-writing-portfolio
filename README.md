@@ -3,6 +3,15 @@
 ### About me
 Technical writer focused on developer documentation and Python education.
 
+## 🟢 Bitrix24 Technical Publications
+
+Selected developer-focused tutorials and technical articles published in the
+Bitrix24 corporate blog on Habr. The collection covers API integrations, backend
+systems, Docker deployment, observability, developer tooling, and AI-assisted
+development.
+
+🔗 [bitrix24-technical-publications](https://github.com/igor-rosliakov-techwriter/bitrix24-technical-publications)
+
 ### Documentation projects:
 
 ## 🟢 Webhook Receiver Onboarding Template
