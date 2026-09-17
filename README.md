@@ -5,12 +5,19 @@ Technical writer focused on developer documentation and Python education.
 
 ## 🟢 Bitrix24 Technical Publications
 
-Selected developer-focused tutorials and technical articles published in the
-Bitrix24 corporate blog on Habr. The collection covers API integrations, backend
-systems, Docker deployment, observability, developer tooling, and AI-assisted
-development.
+I turn technical briefs from Bitrix24 developers into working example applications
+that demonstrate what customers can build on the platform. Using AI-assisted
+development, I build and test the examples, then explain how to reproduce them,
+how the integrations and backend components work, and what happens at the code
+level when technical detail is needed.
 
-🔗 [bitrix24-technical-publications](https://github.com/igor-rosliakov-techwriter/bitrix24-technical-publications)
+The tutorials serve both non-technical users exploring how some portal
+customizations can be created without a dedicated development team and developers
+who want to evaluate or extend the implementation. This is hands-on technical
+content: practical prototypes, reproducible workflows, and code-level explanations
+rather than formal product documentation.
+
+🔗 [View the curated collection](https://github.com/igor-rosliakov-techwriter/bitrix24-technical-publications)
 
 ### Documentation projects:
 
