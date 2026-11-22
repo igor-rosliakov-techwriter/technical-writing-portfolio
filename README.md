@@ -17,13 +17,13 @@ who want to evaluate or extend the implementation. This is hands-on technical
 content: practical prototypes, reproducible workflows, and code-level explanations
 rather than formal product documentation.
 
-🔗 [View the curated collection](https://github.com/igor-rosliakov-techwriter/bitrix24-technical-publications)
+🔗 [View the curated collection](https://github.com/igor-rosliakov-techwriter/bitrix24-technical-publications) (English summaries · Full articles in Russian)
 
 ## 🟢 Lonto — Selected English-Language Articles
 
 As Lonto’s editor, I drafted and edited these English-language articles based on the engineers’ work. The engineers behind the work are credited as the authors. The selection covers mobile OAuth, GitOps with Crossplane, and observability with Grafana Loki.
 
-🔗 [View the curated collection](https://github.com/igor-rosliakov-techwriter/lonto-technical-publications)
+🔗 [View the curated collection](https://github.com/igor-rosliakov-techwriter/lonto-technical-publications) (Full articles in English)
 
 ### Documentation projects:
 
@@ -43,7 +43,7 @@ to understand how a webhook-based service works and how to contribute to it.
    3. idempotency;
    4. operational troubleshooting.
 
-🔗 [webhook-receiver-onboarding-template](https://github.com/igor-rosliakov-techwriter/webhook-receiver-onboarding-template)
+🔗 [webhook-receiver-onboarding-template](https://github.com/igor-rosliakov-techwriter/webhook-receiver-onboarding-template) (Documentation in English)
 
 
 ## 🟢 Dockerized Backend Development Environment
@@ -73,7 +73,7 @@ understand a multi-service backend system locally.
    3. common local development pitfalls;
    4. runbooks for typical failure scenarios.
 
-🔗 [dockerized-backend-dev-environment](https://github.com/igor-rosliakov-techwriter/dockerized-backend-dev-environment)
+🔗 [dockerized-backend-dev-environment](https://github.com/igor-rosliakov-techwriter/dockerized-backend-dev-environment) (Documentation in English and Russian)
 
 
 ## 🟢 Technical Writing Samples (Articles & Educational Materials)
@@ -93,4 +93,4 @@ Focus:
   - Kubernetes-based platform architecture
 - Developer workflows, tooling, and infrastructure practices
 
-🔗 [technical-writing-samples](https://github.com/igor-rosliakov-techwriter/Technical-Writing-Samples/tree/main)
+🔗 [technical-writing-samples](https://github.com/igor-rosliakov-techwriter/Technical-Writing-Samples/tree/main) (English summaries · Full materials in Russian)
