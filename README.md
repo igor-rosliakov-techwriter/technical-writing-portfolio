@@ -19,6 +19,12 @@ rather than formal product documentation.
 
 🔗 [View the curated collection](https://github.com/igor-rosliakov-techwriter/bitrix24-technical-publications)
 
+## 🟢 Lonto — Selected English-Language Articles
+
+As Lonto’s editor, I drafted and edited these English-language articles based on the engineers’ work. The engineers behind the work are credited as the authors. The selection covers mobile OAuth, GitOps with Crossplane, and observability with Grafana Loki.
+
+🔗 [View the curated collection](https://github.com/igor-rosliakov-techwriter/lonto-technical-publications)
+
 ### Documentation projects:
 
 ## 🟢 Webhook Receiver Onboarding Template
@@ -88,23 +94,3 @@ Focus:
 - Developer workflows, tooling, and infrastructure practices
 
 🔗 [technical-writing-samples](https://github.com/igor-rosliakov-techwriter/Technical-Writing-Samples/tree/main)
-
-
-## 🟢 Technical writing portfolio focused on both developer-facing and user-facing documentation.
-
-Curated collection of user-facing technical writing samples.
-
-Audience:
-Non-expert users, beginners, and product users interacting with technical systems
-and tools.
-
-Focus:
-- Clear and accessible explanations of technical concepts
-- User guides, onboarding, and troubleshooting documentation
-- Conceptual explanations for common technical topics:
-  - version control (Git)
-  - APIs and API usage
-  - security basics and data protection
-- Practical workflows and support-oriented documentation
-
-🔗 [user-facing-writing-samples](https://github.com/igor-rosliakov-techwriter/User-Facing-Technical-Writing-Samples)
